@@ -1,0 +1,8 @@
+{
+  "name": "UniLib - Sistem Perpustakaan Mahasiswa Universitas",
+  "description": "Sistem informasi manajemen perpustakaan khusus mahasiswa universitas: katalog buku teks, skripsi/TA, jurnal, KTM digital, sirkulasi peminjaman, dan surat bebas pustaka online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
